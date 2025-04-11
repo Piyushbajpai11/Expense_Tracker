@@ -120,18 +120,6 @@ expense-tracker/
    - Click the delete button next to any transaction
    - Confirm deletion
 
-## Browser Compatibility
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## Future Enhancements
-- Export/Import functionality
-- Data visualization (charts)
-- User authentication
-- Multiple currency support
-- Budget planning features
 
 ## Contributing
 Feel free to fork this project and submit pull requests for any improvements.
